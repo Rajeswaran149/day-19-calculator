@@ -1,0 +1,42 @@
+.h1{
+    font-family: 'Cinzel', serif;
+    color: rgb(17, 174, 236);
+    text-align: center;
+}
+.container{
+    background-color: #c5c4c2;
+    padding-bottom: 20px;
+    border:2px solid black;
+    border-radius: 10px;
+   
+}
+#show{
+    background: rgb(124, 123, 123);
+    border: solid black;
+    border-radius: 10px;
+    margin: 20px;
+    width:90%;
+    height:20%;
+    padding: 15px;
+    font-size:25px;
+}
+.row{
+    margin-left: 3%;
+    margin-right: 5%;
+    border:1px solid #c5c3c0;;
+    border-radius: 10px;
+}
+.cut{
+    border: none;
+}
+.btn-primary{
+    border-radius: 2%;
+}
+.disp{
+    height: 3.5em;
+    width: 92%;
+    margin: 1em;
+    border: 0.3em solid black;
+    border-radius: 0.5em;
+    
+}
